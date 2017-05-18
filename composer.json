@@ -1,5 +1,5 @@
 {
-    "name": "OdzAmrinder/package",
+    "name": "odz-amrinder/package",
     "description": "A PHP-SDK for Twitter Search API",
     "keywords": ["twitter search", "search"],
     "type": "package",
@@ -8,7 +8,7 @@
     },
     "license": "MIT",
     "authors": [{
-        "name": "Amrinder Singh", 
+        "name": "odz-amrinder",
         "email": "amrinder@ourdesignz.com"
     }],
     "autoload": {
